@@ -6,7 +6,7 @@ DIO_2020
 
 # Projeto consultaprevisão do tempo via API
 
-Aula ministrada por João Victor Ghignatti no curso da Digital Innovation One.
+
 
 Fonte:
 [Digital Innovation One(DIO)](https://digitalinnovation.one/)
